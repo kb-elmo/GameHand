@@ -8,6 +8,8 @@
 
 ---
 
+[Case files](case/)
+
 [KiCAD PCB files](pcb/)
 
 [Gerbers for PCB production](pcb/gerbers/)
@@ -15,8 +17,6 @@
 [JLCPCB BOM](pcb/fab/GameHand_bom_jlc.csv)
 
 [JLCPCB CPL](pcb/fab/GameHand_cpl_jlc.csv)
-
-[Case files](case/)
 
 ---
 
