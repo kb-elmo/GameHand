@@ -25,7 +25,6 @@ https://www.digikey.com/en/products/detail/gct/USB4085-GF-A/9859733
 
 -----
 
-<img src="pcb/front.png" alt="drawing" width="800"/>
 <img src="pcb/back.png" alt="drawing" width="800"/>
 
 This work is licensed under a
