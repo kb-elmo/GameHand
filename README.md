@@ -4,7 +4,7 @@
 
 ### Left-hand gaming keypad with a 3D printed case
 
-<img src="https://i.imgur.com/ia3bcUBl.jpg" alt="drawing" width="800"/>
+<img src="https://i.imgur.com/ia3bcUB.jpg" alt="drawing" width="800"/>
 
 ---
 
