@@ -1,3 +1,3 @@
-[submodule "MX_Alps_Hybrid"]
+[submodule "pcb/MX_Alps_Hybrid"]
 	path = pcb/MX_Alps_Hybrid
 	url = https://github.com/ai03-2725/MX_Alps_Hybrid
