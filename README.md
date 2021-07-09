@@ -20,13 +20,6 @@
 
 ---
 
-The USB port can be found here: 
-https://www.digikey.com/en/products/detail/gct/USB4085-GF-A/9859733
-
------
-
-<img src="pcb/back.png" alt="drawing" width="800"/>
-
 This work is licensed under a
 [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License][cc-by-nc-sa].
 
