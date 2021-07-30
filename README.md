@@ -1,6 +1,7 @@
 # GameHand
 
-[![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
+[![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa] 
+<a href="https://ko-fi.com/kb_elmo"><img src="https://i.imgur.com/9T0bvqO.png" alt="kofibadge" align="right"/></a>
 
 ### Left-hand gaming keypad with a 3D printed case
 
@@ -17,6 +18,10 @@
 [JLCPCB BOM](pcb/fab/GameHand_bom_jlc.csv)
 
 [JLCPCB CPL](pcb/fab/GameHand_cpl_jlc.csv)
+
+---
+
+If you like this project please consider to  
 
 ---
 
